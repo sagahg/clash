@@ -9,7 +9,3 @@ DOMAIN-SUFFIX,pool.ntp.org
 DOMAIN-SUFFIX,time.google.com
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,time.apple.com
-DST-PORT,500
-DST-PORT,4500
-DST-PORT,5060
-DST-PORT,5061
